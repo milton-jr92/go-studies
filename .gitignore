@@ -1,0 +1,59 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Output of the go coverage tool, or other test tools
+*.out
+
+# Dependency directories (remove the comment below if you use Go modules)
+/vendor/
+
+# Go workspace file
+*.code-workspace
+
+# IDE/editor directories and files
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
+
+# Logs
+*.log
+
+# Compiled object files
+*.o
+*.a
+*.cgo1.go
+*.cgo2.c
+
+# Go build cache
+/cache/
+
+# GoLand project files
+*.iml
+
+# Test binary
+*.test
+
+# Coverage files
+coverage*
+
+# Module cache (if not in GOPATH)
+/pkg/mod/
+
+# Go environment files
+.env
+.env.*
+
+# Local binaries
+/bin/
+
+# Go workspace settings (safe to ignore for study/experiments)
+go.work
+*.sum
+*.mod
