@@ -1,3 +1,5 @@
+// change collor palette to green over black background
+
 package main
 
 import (

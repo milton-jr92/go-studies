@@ -1,3 +1,5 @@
+// add more colors to the palette and iterate through them in SetColorIndex
+
 package main
 
 import (
